@@ -1,13 +1,11 @@
 :root {
   --header-height: 3rem;
-
   --title-color: #0b0a0a;
   --text-color: #403a3a;
   --text-color-light: #707070;
   --container-color: #fafafa;
-  --container-color-alt: #eecee5;
+  --container-color-alt: #f8ae72;
   --body-color: #fcfcfc;
-
   --body-font: "Poppins", sans-serif;
   --h1-font-size: 1.5rem;
   --h2-font-size: 1.25rem;
